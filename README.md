@@ -1,4 +1,4 @@
-# Nlp-Text-Preprocessing-using-IMDB-Dataset.ipynb
+# Nlp-Text-Preprocessing
 
 ## 🎬 NLP Text Processing using IMDB Dataset
 
