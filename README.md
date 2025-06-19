@@ -1,7 +1,5 @@
 # Nlp-Text-Preprocessing-using-IMDB-Dataset.ipynb
 
-# NLP-Text-Processing
-
 ## 🎬 NLP Text Processing using IMDB Dataset
 
 This project focuses on **Natural Language Processing (NLP)** techniques applied to the **IMDB movie reviews dataset**. It includes data preprocessing, vectorization, sentiment classification, and model evaluation using traditional machine learning models.
